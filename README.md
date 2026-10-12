@@ -1,4 +1,5 @@
 # Wi-Fi Threat Detection and Anomaly Analytics
+Created by: Ashlesha Kathe
 
 A defensive, local-first wireless monitoring portfolio project. It combines an interpretable rule engine with a reproducible data science pipeline: fixed-window feature engineering, a supervised multi-class Random Forest, and a one-class Isolation Forest trained on normal windows. The inference command returns both ML triage scores and rule alerts.
 
